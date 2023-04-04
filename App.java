@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Random;
 import java.util.Scanner;
 
-public class app {
+public class App {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.print("Задайте размер списка (n): ");
